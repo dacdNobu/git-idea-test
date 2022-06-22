@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master的改变");
         System.out.println("hot-fix下的改变");
         System.out.println("咕咕咕");
+        System.out.println("得得得得");
     }
 }
